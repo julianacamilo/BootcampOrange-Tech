@@ -6,3 +6,6 @@
 
 ## Criando Uma Wiki de Repositórios do GitHub Com React
 >  criar uma Wiki para salvar alguns repositórios do GitHub.
+
+## Tela de cadastro
+> Criando a tela de cadastro da Dio.
